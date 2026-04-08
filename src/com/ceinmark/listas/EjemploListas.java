@@ -13,6 +13,9 @@ public class EjemploListas {
 		
 		//HOLA HE HECHO UN CAMBIO EN ESTE PROYECTO
 		//SOY RODRIGO ALMENDARIZ
+		
+		//Hola Rodrigo, gracias por hacer el cambio
+		//Soy Moisés Algendones Calderón
 
 		libros.add("Harry Potter");
 		libros.add("Crepúsculo");
