@@ -10,6 +10,9 @@ public class EjemploListas {
 		
 		//Crear la lista, pero que no permita duplicados (hashset / .contains)
 		List<String> libros = new ArrayList<String>();
+		
+		//HOLA HE HECHO UN CAMBIO EN ESTE PROYECTO
+		//SOY RODRIGO ALMENDARIZ
 
 		libros.add("Harry Potter");
 		libros.add("Crepúsculo");
